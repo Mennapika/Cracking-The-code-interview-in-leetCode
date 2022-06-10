@@ -1,4 +1,4 @@
-//Hash Map Solution // 15ms runtime 
+//Hash Map Solution --> 15ms runtime 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
        Map<Integer,Integer> map = new HashMap<>();
@@ -10,7 +10,7 @@ class Solution {
     }
 }
 
-//Set Solution //12ms runtime 
+//Set Solution --> 12ms runtime 
 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
